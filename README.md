@@ -53,9 +53,6 @@ This project focuses on utilizing bioacoustic data for the separation and classi
 
 Contributions to this project are welcome! Feel free to submit bug reports, feature requests, or pull requests via GitHub.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 For further details on the implementation and usage of the provided code, please refer to the source code and documentation within the repository. If you have any questions or encounter any issues, don't hesitate to reach out.
 
